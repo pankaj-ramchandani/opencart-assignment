@@ -26,3 +26,7 @@ define('DB_PASSWORD', '');
 define('DB_DATABASE', 'opencart');
 define('DB_PORT', '3306');
 define('DB_PREFIX', 'oc_');
+
+// REDIS
+define('REDIS_HOST', '127.0.0.1');
+define('REDIS_PORT', 6379);
