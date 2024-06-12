@@ -24,4 +24,9 @@ class RedisUtil
     {
         return $this->redis->exists($key);
     }
+
+    public function delete($key)
+    {
+        return $this->redis->del($key);
+    }
 }

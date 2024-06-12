@@ -71,6 +71,12 @@ class ControllerCatalogProduct extends Controller {
 
 		$this->load->model('catalog/product');
 
+		//delete product attributes
+		$redis_key = REDIS_KEY_PRODUCT_ATTRIBUTES . $this->request->get['product_id'];
+		$redis = new RedisUtil();
+		$redis->delete($redis_key);
+
+
 		if (($this->request->server['REQUEST_METHOD'] == 'POST') && $this->validateForm()) {
 			$this->model_catalog_product->editProduct($this->request->get['product_id'], $this->request->post);
 
