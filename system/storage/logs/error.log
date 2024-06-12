@@ -6,3 +6,13 @@
 2024-06-12 10:07:31 - PHP Notice:  Use of undefined constant REDIS_PORT - assumed 'REDIS_PORT' in /opt/lampp/htdocs/opencart/system/RedisUtil.php on line 13
 2024-06-12 10:08:32 - PHP Notice:  Use of undefined constant REDIS_HOST - assumed 'REDIS_HOST' in /opt/lampp/htdocs/opencart/system/RedisUtil.php on line 13
 2024-06-12 10:08:32 - PHP Notice:  Use of undefined constant REDIS_PORT - assumed 'REDIS_PORT' in /opt/lampp/htdocs/opencart/system/RedisUtil.php on line 14
+2024-06-12 11:54:22 - PHP Notice:  Use of undefined constant REDIS_KEY_PRODUCT_ATTRIBUTES - assumed 'REDIS_KEY_PRODUCT_ATTRIBUTES' in /opt/lampp/htdocs/opencart/catalog/model/catalog/product.php on line 312
+2024-06-12 11:54:23 - PHP Notice:  Use of undefined constant REDIS_KEY_PRODUCT_ATTRIBUTES - assumed 'REDIS_KEY_PRODUCT_ATTRIBUTES' in /opt/lampp/htdocs/opencart/catalog/model/catalog/product.php on line 312
+2024-06-12 11:54:24 - PHP Notice:  Use of undefined constant REDIS_KEY_PRODUCT_ATTRIBUTES - assumed 'REDIS_KEY_PRODUCT_ATTRIBUTES' in /opt/lampp/htdocs/opencart/catalog/model/catalog/product.php on line 312
+2024-06-12 11:54:24 - PHP Notice:  Use of undefined constant REDIS_KEY_PRODUCT_ATTRIBUTES - assumed 'REDIS_KEY_PRODUCT_ATTRIBUTES' in /opt/lampp/htdocs/opencart/catalog/model/catalog/product.php on line 312
+2024-06-12 11:54:25 - PHP Notice:  Use of undefined constant REDIS_KEY_PRODUCT_ATTRIBUTES - assumed 'REDIS_KEY_PRODUCT_ATTRIBUTES' in /opt/lampp/htdocs/opencart/catalog/model/catalog/product.php on line 312
+2024-06-12 11:54:26 - PHP Notice:  Use of undefined constant REDIS_KEY_PRODUCT_ATTRIBUTES - assumed 'REDIS_KEY_PRODUCT_ATTRIBUTES' in /opt/lampp/htdocs/opencart/catalog/model/catalog/product.php on line 312
+2024-06-12 11:54:26 - PHP Notice:  Use of undefined constant REDIS_KEY_PRODUCT_ATTRIBUTES - assumed 'REDIS_KEY_PRODUCT_ATTRIBUTES' in /opt/lampp/htdocs/opencart/catalog/model/catalog/product.php on line 312
+2024-06-12 11:54:27 - PHP Notice:  Use of undefined constant REDIS_KEY_PRODUCT_ATTRIBUTES - assumed 'REDIS_KEY_PRODUCT_ATTRIBUTES' in /opt/lampp/htdocs/opencart/catalog/model/catalog/product.php on line 312
+2024-06-12 11:54:27 - PHP Notice:  Use of undefined constant REDIS_KEY_PRODUCT_ATTRIBUTES - assumed 'REDIS_KEY_PRODUCT_ATTRIBUTES' in /opt/lampp/htdocs/opencart/catalog/model/catalog/product.php on line 312
+2024-06-12 11:54:55 - PHP Notice:  Use of undefined constant REDIS_KEY_PRODUCT_ATTRIBUTES - assumed 'REDIS_KEY_PRODUCT_ATTRIBUTES' in /opt/lampp/htdocs/opencart/catalog/model/catalog/product.php on line 311
